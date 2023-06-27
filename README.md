@@ -1,1 +1,1 @@
-# docker-django
+# docker-python-django-postgresql
